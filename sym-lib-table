@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MMBT2222A)(type Legacy)(uri ${KIPRJMOD}/parts/MMBT2222A.lib)(options "")(descr ""))
+)
